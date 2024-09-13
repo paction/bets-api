@@ -1,0 +1,2 @@
+INSERT INTO `users` (`id`, `username`, `password`, `token`, `created_at`, `updated_at`) VALUES (NULL, 'bob', '$2y$10$GVuZVJu3qBFvOjHqCNrjiOX.m8wxPrU5uBwUwESP8uoe3FakKnxpW', '', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP);
+INSERT INTO `users` (`id`, `username`, `password`, `token`, `created_at`, `updated_at`) VALUES (NULL, 'james', '$2y$10$w9lu6jtTbq/3wtEI4nX5BeOahNLi/InmuAUZj6ar/DWje.Y7.VmlO', '', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP);
